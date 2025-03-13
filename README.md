@@ -1,2 +1,2 @@
-# Projeto-IntegradorUC16
- site do projeto integrador final, curso técnico de informática
+# Projeto Integrador - UC16
+ Projeto integrador de conclusão de curso do técnico de informática na instituição SENAC MG. 
